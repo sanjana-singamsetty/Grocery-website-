@@ -1,5 +1,5 @@
 # Grocery-website-
-Repository Description: Grocery Website
+
 
 Welcome to the Grocery Website repository! This repository contains the codebase and assets for an innovative online grocery shopping platform. Below, you'll find an overview of how Amazon S3, Amazon EC2 with Nginx, and Elastic IP have been seamlessly integrated into this project.
 
